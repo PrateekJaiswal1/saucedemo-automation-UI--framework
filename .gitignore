@@ -1,0 +1,13 @@
+# Maven
+target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Allure results
+allure-results/
+allure-report/
+
+# Mac
+.DS_Store
